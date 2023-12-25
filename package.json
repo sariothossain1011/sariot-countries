@@ -17,6 +17,13 @@
   ],
   "author": "Sariot Hossain",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sariothossain1011/sariot-countries"
+  },
+  "bugs": {
+    "url": "https://github.com/sariothossain1011/sariot-countries/issues"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
