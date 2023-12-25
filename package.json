@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "This is an NPM to fetch you the country details",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build:dev":" rollup -c --environment NODE_ENV:development",
     "build":" rollup -c --environment NODE_ENV:development"

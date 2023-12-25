@@ -32,3 +32,4 @@ const useCountry = (name) => {
 
 };
 
+export default useCountry;
